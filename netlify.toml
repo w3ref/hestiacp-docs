@@ -1,6 +1,6 @@
 [build]
-  publish = "site"
+  publish = "_site"
 
   # Default build command.
   #command = "mkdocs build"
-  command = "python3 -m sphinx -b html . site"
+  command = "python -m sphinx -b html . _site/"
