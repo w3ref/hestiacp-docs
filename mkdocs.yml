@@ -1,9 +1,0 @@
-site_name: Документация
-site_url: https://docs.hestiacp.su/
-site_description: Документация
-site_author: Hkr32
-docs_dir: docs
-site_dir: _build
-theme:
-  name: readthedocs
-  language: ru
