@@ -1,0 +1,6 @@
+mkdocs
+sphinx
+sphinx-tabs
+sphinx_rtd_theme
+sphinxcontrib.yt
+docutils==0.16
