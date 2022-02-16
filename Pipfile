@@ -15,4 +15,4 @@ sphinxcontrib.yt = "==0.2.2"
 docutils = "==0.18.1"
 
 [requires]
-python_version = "3.8"
+python_version = "3.6"
