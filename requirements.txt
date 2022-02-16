@@ -1,6 +1,6 @@
-pip mkdocs
-pip sphinx
-pip sphinx-tabs
-pip sphinx_rtd_theme
-pip sphinxcontrib.yt
-pip docutils
+pip install mkdocs
+pip install sphinx
+pip install sphinx-tabs
+pip install sphinx_rtd_theme
+pip install sphinxcontrib.yt
+pip install docutils
