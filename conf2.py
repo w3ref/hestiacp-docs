@@ -40,7 +40,7 @@ release = u''
 # ones.
 extensions = [
     'sphinx.ext.githubpages',
-    'sphinxcontrib.yt',
+    'sphinxcontrib.youtube',
     'sphinx_tabs.tabs',
 ]
 
