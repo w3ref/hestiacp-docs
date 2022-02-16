@@ -1,0 +1,6 @@
+[build]
+  publish = "site/"
+
+  # Default build command.
+  command = "mkdocs build"
+  #python3 -m sphinx -b html . site/
