@@ -1,6 +1,6 @@
-mkdocs
-sphinx
-sphinx-tabs
-sphinx_rtd_theme
-sphinxcontrib.yt
-docutils==0.16
+pip mkdocs
+pip sphinx
+pip sphinx-tabs
+pip sphinx_rtd_theme
+pip sphinxcontrib.yt
+pip docutils
