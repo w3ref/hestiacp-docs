@@ -1,4 +1,4 @@
-Getting Started
+Начало
 ==================
 
 .. toctree::
@@ -6,10 +6,10 @@ Getting Started
   :glob:
 
 **********************************
-Getting Hestia installation script
+Получение скрипта установки Hestia
 **********************************
 
-Log in to your server as root, either directly or via SSH to install HestiaCP with 3 easy steps:
+Войдите на свой сервер как root, либо напрямую, либо через SSH, чтобы установить HestiaCP, выполнив 3 простых шага:
 
 .. code-block:: bash
 
